@@ -60,7 +60,7 @@ int main(int argc, char** argv){
 	glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);
 	glutInitWindowSize(500,500);
 	glutInitWindowPosition(100,100);
-	glutCreateWindow("keranjang");
+	glutCreateWindow("pisang");
 	glutDisplayFunc(display);
 	gluOrtho2D(0,11,0,12);
 	glutMainLoop();
